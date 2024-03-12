@@ -1,1 +1,1 @@
-# vk-internship
+# VK ML-engineer
